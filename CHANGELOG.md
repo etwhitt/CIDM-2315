@@ -1,6 +1,9 @@
-25 January 2025 
+25 Jan 2025 
 - Created repository and changelog file.
-- Uploaded Homework1 code file.
+- Uploaded Homework 1 code file.
 
-31 January 2025
+31 Jan 2025
 - Uploaded Homework 2 code file.
+
+09 Feb 2025
+- Uploaded Homework 3 code file.
