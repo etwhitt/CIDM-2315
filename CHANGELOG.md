@@ -13,3 +13,6 @@
 
 24 Feb 2025
 - Uploaded Homework 5 code file.
+
+06 Mar 2025
+- Uploaded Homework 6 code file.
